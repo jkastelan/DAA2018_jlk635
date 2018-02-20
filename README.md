@@ -1,1 +1,1 @@
-#DAA2018_jlk635
+## Data and algorithms in the criminal justice system - CUSP Spring 2018
